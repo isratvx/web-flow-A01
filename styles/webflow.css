@@ -73,3 +73,32 @@ nav ul li{
     text-align: center;
     margin: 80px 267.5px 0px 267.5px;
 }
+
+/* action styles */
+
+.action{
+    display: flex;
+    justify-content: space-between;
+    margin: 85px 159px 116px 141px;
+}
+
+.action-content{
+    max-width: 517px;
+}
+
+.action-title{
+    font-weight: bold;
+    font-size: 42px;
+    color: #252432;
+    
+}
+.action-subtitle{
+    font-size: 24px;
+    font-weight: 200;
+    color: #252432;
+}
+
+.action-picture {
+    width: 403px;
+    border-radius: 48px;
+}
